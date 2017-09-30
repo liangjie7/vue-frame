@@ -1,12 +1,12 @@
 <template>
-  <div id="content">
-     index
+  <div>
+      this is from test.vue
   </div>
 </template>
 
 <script>
 export default {
-    
+
 }
 </script>
 
